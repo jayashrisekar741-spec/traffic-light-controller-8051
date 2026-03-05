@@ -1,4 +1,4 @@
-# traffic-light-controller-8051 # Traffic Light Controller using 8051 Microcontroller
+ # Traffic Light Controller using 8051 Microcontroller
 
 This project implements a basic 3-phase Traffic Light Control system using an 8051 microcontroller. It cycles through Red, Yellow, and Green lights with specific time delays.
 
