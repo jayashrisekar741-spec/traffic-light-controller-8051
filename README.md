@@ -20,5 +20,4 @@ This project implements a basic 3-phase Traffic Light Control system using an 80
 ## 🚀 How to Run
 1. Open the `.uvproj` file in Keil uVision.
 2. Build the project to generate the hex file.
-3. Use the Debug mode to simulate the I/O port transitions in the Peripheral window.
-4.
+3. Use the Debug mode to simulate the I/O port transitions in the Peripheral window
